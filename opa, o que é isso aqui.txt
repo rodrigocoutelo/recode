@@ -1,0 +1,5 @@
+https://developer.android.com/reference/android/widget/Button
+
+https://developer.android.com/studio/build/build-variants?hl=pt-br
+
+https://docs.google.com/presentation/d/1LacA9zKuxxMZOLIZfdA3xraOYKbGTiJBX9onnEKWcg0/edit?usp=sharing
